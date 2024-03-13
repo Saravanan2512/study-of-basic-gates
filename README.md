@@ -98,7 +98,10 @@ endmodule
 **RTL realization Output:** 
 **RTL**
 ![Screenshot 2024-03-12 090238](https://github.com/Saravanan2512/study-of-basic-gates/assets/144979117/70b3144a-401c-4351-867a-8a5d32dc42d7)
+![last](https://github.com/Saravanan2512/study-of-basic-gates/assets/144979117/ba3c8814-7c07-4ba7-b71c-6dd79961b37e)
+
 
 **Result:**
+This program for logic gates and verify its truth table in quartus using Verilog programming
 
 
